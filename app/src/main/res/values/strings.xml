@@ -16,5 +16,7 @@
     <string name="transition_search_frame_layout" translatable="false">search_frame_layout</string>
     <string name="transition_search" translatable="false">search</string>
 
+    <string name="api_key">a7d9dcfcb6f3d6330357c8ae5fe06e58</string>
+
 
 </resources>
